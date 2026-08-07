@@ -27,7 +27,13 @@ helpdesk_system/
 
 ## 📸 Capturas de Pantalla
 
-*(Añadir capturas de la interfaz de Streamlit aquí)*
+- **Dashboard Principal**: Vista general de la interfaz de usuario en Streamlit.
+![Dashboard Principal](assets/dashboard.png)
+- **Resolución Automática**: Ejemplo de una consulta técnica resuelta exitosamente por la IA.
+![Respuesta IA](assets/ai_response.png)
+- **Escalado a Humano**: Ejemplo de un caso complejo donde el sistema solicita intervención humana (HITL).
+![Escalado a Humano](assets/human_hitl.png)
+
 
 ## 🛠️ Flujo de Trabajo Lógico
 
