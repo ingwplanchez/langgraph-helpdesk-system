@@ -14,7 +14,7 @@ Un sistema inteligente de atención al cliente que combina la potencia de **Lang
 ## 📁 Estructura del Proyecto
 
 ```text
-helpdesk_system/
+langchain-helpdesk-system/
 ├── app.py                # Interfaz de usuario con Streamlit y lógica de sesión
 ├── graph.py              # Definición del flujo de LangGraph (Nodos, Bordes y Estado)
 ├── rag_system.py          # Lógica de búsqueda RAG, MultiQuery y generación de respuesta

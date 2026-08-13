@@ -12,6 +12,11 @@ Conda.exe
 # ChromaDB
 chroma_db/
 
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
 # IDEs
 .vscode/
 .idea/
