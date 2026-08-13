@@ -22,7 +22,8 @@ langchain-helpdesk-system/
 ├── config.py             # Variables de configuración y constantes del sistema
 ├── docs/                 # Base de conocimientos en archivos .md
 ├── chroma_db/             # Almacenamiento local de vectores de ChromaDB
-└── helpdesk.db           # Base de datos SQLite para el checkpointer de LangGraph
+├── helpdesk.db           # Base de datos SQLite para el checkpointer de LangGraph
+└── REVIEW.md             # Guía de estudio y auditoría técnica para entrevistas de nivel Senior/Mid
 ```
 
 ## 📸 Capturas de Pantalla
